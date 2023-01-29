@@ -1,8 +1,8 @@
 # TwitterScrapper
-# Get Millions of twitter data
+# Get Millions of Twitter Data
 Get the data from twitter using streamlit interface
 
-Features:
+Options:
 1.Store the data in database
 2.Download as csv file
 
